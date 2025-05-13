@@ -18,7 +18,7 @@ Poison é um script que:
 Clone o repositório:
 
 ```bash
-wget https://raw.githubusercontent.com/AndreyFreitaz/Poison/refs/heads/main/poison.sh
+wget https://raw.githubusercontent.com/AndreyFreitax/Poison/refs/heads/main/poison.sh
 chmod +x poison.sh
 ./poison.sh
 ou
